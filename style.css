@@ -1,0 +1,21 @@
+p#tekst{
+    color: #00ff55;
+    font-family: arial;
+    font-size: 20px;
+}
+
+h1{
+    color: red;
+    font-size: 25px;
+}
+
+#kolorek{
+    color: magenta;
+}
+
+.klasa{
+    color: blue;
+    background-color: aliceblue;
+    font-family: fantasy;
+    font-size: 17px;
+}
